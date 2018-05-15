@@ -1,0 +1,4 @@
+[General]
+baudRate=19200
+daiphunID=0
+portName=ttyUSB0
